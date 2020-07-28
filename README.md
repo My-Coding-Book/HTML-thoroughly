@@ -1,1 +1,1 @@
-# HTML-thoroughly
+# HTML thoroughly
